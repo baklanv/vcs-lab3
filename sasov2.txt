@@ -1,3 +1,4 @@
 fun main() {
+	print("HI world");
 	return 0;
 }
